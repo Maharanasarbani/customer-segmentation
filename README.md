@@ -40,6 +40,15 @@ A pairplot is used to visualize clusters across RFM dimensions.
 2)Scatter Plot:
 Customers are plotted based on Age vs. Spending Score with color-coded clusters.
 
+To improve customer relationship management and business decision-making, advanced features have been added to the customer segmentation model. These features allow businesses to provide personalized product recommendations, optimize loyalty programs, and create targeted marketing campaigns.
+1)Personalized Product Recommendations:
+A key goal of customer segmentation is to offer the right products to the right customers. This feature suggests specific product categories based on customer segments.
+2)Loyalty Program Optimization:
+Loyalty programs encourage customers to make repeat purchases. This feature assigns custom discount offers based on customer value.
+3)Email & Ad Campaign Segmentation:
+Effective marketing requires personalized communication. This feature segments customers into different marketing campaigns for better engagement.
+
+
 Key Takeaways-
 1)High-value customers have high frequency & monetary scores but may need re-engagement if their recency is high.
 2)New or low-spending customers can be identified and targeted differently.
